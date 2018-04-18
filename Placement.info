@@ -1,0 +1,10 @@
+﻿<Placement>
+  <!-- available display shapes -->
+
+  <!--
+  Parts_EditButton
+  -->
+
+  <Place Parts_CookiePolicy="Content:10"/>
+
+</Placement>

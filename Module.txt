@@ -1,0 +1,11 @@
+﻿Name: Moov2.Orchard.CookiePolicy
+AntiForgery: enabled
+Author: Moov2
+Website: http://moov2.com
+Version: 1.0
+OrchardVersion: 1.10
+Description: Description for the module
+Features:
+    Moov2.Orchard.CookiePolicy:
+        Description: Cookie policy text.
+        Category: Content
