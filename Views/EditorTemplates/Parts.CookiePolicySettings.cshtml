@@ -1,0 +1,10 @@
+﻿@model Moov2.Orchard.CookiePolicy.Models.CookiePolicySettingsPart
+
+<fieldset>
+    <legend>@T("Cookie Policy Settings")</legend>
+
+    <div>
+        <label for="@Html.FieldIdFor(m => m.Description)">@T("Description")</label>
+        @Html.TextAreaFor(m => m.Description, new { @class = "text large" })
+    </div>
+</fieldset>
