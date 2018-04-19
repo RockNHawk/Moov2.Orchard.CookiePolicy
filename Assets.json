@@ -1,6 +1,12 @@
-[
-    {
-        "inputs": [ "Assets/Styles.less" ],
-        "output": "Styles/Styles.css"
-    }
+﻿[
+  {
+    "inputs": [
+      "Assets/JavaScript/CookiePolicy.js"
+    ],
+    "output": "Scripts/CookiePolicy.js"
+  },
+  {
+    "inputs": [ "Assets/CSS/CookiePolicy.less" ],
+    "output": "Styles/CookiePolicy.css"
+  }
 ]

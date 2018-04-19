@@ -83,9 +83,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets.json" />
-    <Content Include="Assets\Styles.less" />
-    <Content Include="Styles\Styles.css" />
-    <Content Include="Styles\Styles.min.css" />
+    <Content Include="Assets\CSS\CookiePolicy.less" />
+    <Content Include="Assets\JavaScript\CookiePolicy.js" />
     <Content Include="Web.config" />
     <Content Include="Scripts\Web.config" />
     <Content Include="Styles\Web.config" />
@@ -112,6 +111,7 @@
   <ItemGroup>
     <Content Include="Placement.info" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
